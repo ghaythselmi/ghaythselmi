@@ -9,4 +9,4 @@
 💻 Designing and developing full-stack applications with Angular, Symfony, and Spring Boot
 
 🔧 Focused on automation, CI/CD pipelines, and containerized environments using Docker & Kubernetes
-
+![Profile Views](https://komarev.com/ghpvc/?username=ghaythselmi&color=blue)
